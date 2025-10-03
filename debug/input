@@ -1,0 +1,2 @@
+GET /tmp/tmpos3un4co HTTP/1.1\r\nHost: localhost\r\nUser-Agent: python-requests/2.32.4\r\nAccept-Encoding: gzip, deflate, zstd\r\nAccept: */*\r\nConnection: keep-alive\r\n\r\n
+POST /tmp/tmpduchpjsn\0HTTP/1.1\r\nHost: localhost\r\nUser-Agent: python-requests/2.32.4\r\nAccept-Encoding: gzip, deflate, zstd\r\nAccept: */*\r\nConnection: keep-alive\r\nContent-Length: 36\r\n\r\nSIWlgPYg8w7njYDeOHW9W4Zl4kAGu2HnxPxP
